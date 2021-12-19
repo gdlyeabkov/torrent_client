@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "19426f88-3a5a-4d88-8e97-5562b01dd18a": {
+      "ProjectGuid": "19426f88-3a5a-4d88-8e97-5562b01dd18a",
+      "DisplayName": "TorrentClient",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
